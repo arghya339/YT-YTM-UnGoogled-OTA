@@ -52,7 +52,7 @@ Android 14
 
 <details><summary>
   
-#### YouTube Music UnGoogled - Android Versions
+#### YT Music UnGoogled - Android Versions
 </summary>
 
 ```
