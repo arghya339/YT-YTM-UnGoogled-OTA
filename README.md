@@ -89,7 +89,7 @@ Android 14
 
 <details><summary>
 
-## UnGoogled Patches with Screenshots
+## Patches with Screenshots
 </summary>
 
 ***List of ungoogled patches with screenshots. You may need to scroll to view the complete table.***
