@@ -96,7 +96,7 @@ Android 14
 
 <details><summary>
 
-#### YouTube Ungoogled
+#### YouTube UnGoogled
 </summary>
 
 | Patch | Description | Related Screenshots |
