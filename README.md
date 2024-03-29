@@ -1,5 +1,5 @@
 # YT-YTM-UnGoogled-OTA
-YouTube UnGoogled helps you watch YouTube without  unlimited advertisements and sponsors. YouTube UnGoogled Official YouTube Vanced without Vanced logo &amp; name.
+YouTube UnGoogled helps you watch YouTube without  unlimited advertisements and sponsors. YouTube UnGoogled Official YouTube ReVancedX with logical name &amp; pakagename.
 
 _Work in Progress..._
 
