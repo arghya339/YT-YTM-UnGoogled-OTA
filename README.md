@@ -3,14 +3,14 @@ YouTube UnGoogled helps you watch YouTube without  unlimited advertisements and 
 
 _Work in Progress..._
 
-# UnGoogled-Patches-Documentation
+# ReVancedX-Patches-Documentation
 
 <details><summary>
 
 ## Supported Android Versions
 </summary>
 
-***Recommended android versions to installation for best compatibilty with ungoogled patches.***
+***Recommended android versions to installation for best compatibilty with revancedx patches.***
 
 <details><summary>
 
@@ -98,7 +98,7 @@ Android 15
 ## Patches with Screenshots
 </summary>
 
-***List of ungoogled patches with screenshots. You may need to scroll to view the complete table.***
+***List of revancedx patches with screenshots. You may need to scroll to view the complete table.***
 
 <details><summary>
 
