@@ -14,7 +14,7 @@ Bug Fixes
 - YouTube - Debugging: Disable by default
   
 Features
-- MicroG Support: Switch to GMSCore
+- MicroG Support: Switch to [GMSCore](https://github.com/arghya339/UnGoogledMicroGMS/releases/tag/UnGoogledMicroGMSCore_v0.3.1.241017(241017000))
 - YouTube - Hide layout components: Add Subscriptions tab and Comments to Keyword filter
 - YouTube - Hide player buttons baclground: Add a switch setting Hide player buttons background
 - YouTube - Layout component filter: Add locale support for a video filter based on view count
@@ -27,5 +27,5 @@ Features
 - YouTube - Translations: Update Brazillian, Portuguese, Chinese Simplified, Chinese Traditional, Italian, Japanese, Korean, Polish, Russian, Spanish, Ukrainian
 - YouTube/Settings menu: Adding a submenu title Keyword filter
 - YouTube: Add Hide settings preferences
-- YouTube: Add Tuck away preferences for force hide elements from main settings
+- YouTube: Add Tuck away preferences for force hide elements from main settings (Data saving, Video quality preferences, Background Download, Try experimental new features, Purchases and memberships, Billing and payments,etc)
 - YouTube: Bump support version 19.11.38
