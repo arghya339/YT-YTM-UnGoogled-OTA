@@ -27,5 +27,5 @@ Features
 - YouTube - Translations: Update Brazillian, Portuguese, Chinese Simplified, Chinese Traditional, Italian, Japanese, Korean, Polish, Russian, Spanish, Ukrainian
 - YouTube/Settings menu: Adding a submenu title Keyword filter
 - YouTube: Add Hide settings preferences
-- YouTube: Add Tuck away preferences for force hide elements from main settings (Data saving, Video quality preferences, Background Download, Try experimental new features, Purchases and memberships, Billing and payments,etc)
-- YouTube: Bump support version 19.11.38
+- YouTube: Add Tuck away preferences for force hide elements from main settings (Data saving, Video quality preferences, Background Download, Try experimental new features, Purchases and memberships, Billing and payments, etc)
+- YouTube: Bump support version 19.11.XX
