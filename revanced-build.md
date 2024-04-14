@@ -6,6 +6,22 @@ Bug Fixes
 Bug Fixes
 - YouTube - GmsCore support: Prompt to disable battery optimizations, if not done already
 
-# v4.7.0-dev.1
+# 4.7.0-dev.1
 Features
 - YouTube - Hide layout components: Add option to hide horizontal shelves.
+
+# 4.7.0-dev.5
+Bug Fixes
+- YouTube - Hide Shorts components: Correctly hide Shorts if navigation tab is changed using device back button
+
+# 4.7.0-dev.6
+Features
+- YouTube - Hide Shorts components: Hide Shop, Location and Save sound to playlist buttons
+
+# 4.7.0-dev.7
+Features
+- YouTube - Hide layout components: Hide playables
+
+# v4.7.0-dev.8
+Features
+- YouTube - Hide Shorts components: Hide tagged products, hide search suggestions
