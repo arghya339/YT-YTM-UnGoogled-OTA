@@ -16,7 +16,7 @@ Features
 - YouTube - Tuck away preferences: Optimize default options
 - YouTube - Visual preferences icons: New vector icons
 
-# v2.224.0-dev.3
+# 2.224.0-dev.3
 Bug Fixes
 - YouTube - Overlay buttons: Add toast message for speed reset
 
@@ -26,3 +26,15 @@ Features
 - YouTube - Hide Shorts components: Selectively hide Shorts for home / subscriptions / search
 - YouTube - Settings: Specify the setting name before which the RVX setting should be inserted
 - YouTube - Tuck away preferences: Add parent settings and make options case-insensitive
+
+# 2.224.0-dev.4
+Features
+- YouTube - Hide Shorts components: Hide Shop, Location and Save sound to playlist buttons
+
+# 2.224.0-dev.5
+Features
+- YouTube: Use new Navigation Bar fingerprint for Suggestions Shelves and Community posts instead of BrowseID
+
+# v2.224.0-dev.6
+Features
+- YouTube - Visual preferences icons: lcon for Extended setting based on Custom branding icon
