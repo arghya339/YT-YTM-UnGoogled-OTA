@@ -45,6 +45,10 @@ Features
 - YouTube - Hide Shorts components: Hide live chat messages and header in Shorts
 - YouTube - Hide Shorts components: Hide tagged products, hide search suggestions, fix subscribe button not hidden
 
-# v2.224.0-dev.9
+# 2.224.0-dev.9
 Bug Fixes
 - YouTube - Spoof app version: Remove broken versions
+
+# v2.224.0-dev.10
+Bug Fixes
+- YouTube - Default video quality: Match original ReVanced code
