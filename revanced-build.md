@@ -22,6 +22,19 @@ Features
 Features
 - YouTube - Hide layout components: Hide playables
 
-# v4.7.0-dev.8
+# 4.7.0-dev.8
 Features
 - YouTube - Hide Shorts components: Hide tagged products, hide search suggestions
+
+# 4.7.0-dev.9
+Bug Fixes
+- YouTube - Hide ads: rename Hide paid content to Hide paid promotion label
+
+# 4.7.0-dev.10
+Features
+- YouTube: Add 'About' preference to settings menu
+- YouTube: Match overlay icons style to YouTube
+
+# v4.7.0-dev.11
+Bug Fixes
+- YouTube - Spoof device dimensions: Warn about potential performance issues
