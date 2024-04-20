@@ -35,6 +35,16 @@ Features
 Features
 - YouTube: Use new Navigation Bar fingerprint for Suggestions Shelves and Community posts instead of BrowseID
 
-# v2.224.0-dev.6
+# 2.224.0-dev.6
 Features
 - YouTube - Visual preferences icons: lcon for Extended setting based on Custom branding icon
+
+# 2.224.0-dev.7
+Features
+- YouTube - Hide layout components: Hide playables
+- YouTube - Hide Shorts components: Hide live chat messages and header in Shorts
+- YouTube - Hide Shorts components: Hide tagged products, hide search suggestions, fix subscribe button not hidden
+
+# v2.224.0-dev.9
+Bug Fixes
+- YouTube - Spoof app version: Remove broken versions
