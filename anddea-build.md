@@ -52,3 +52,18 @@ Bug Fixes
 # v2.224.0-dev.10
 Bug Fixes
 - YouTube - Default video quality: Match original ReVanced code
+
+# 2.224.0-dev.12
+Bug Fixes
+- YouTube: Possible fix for Shorts looping
+
+Features
+YouTube: Bump support version 19.14.XX
+
+# 2.224.0-dev.14
+Features
+- YouTube - Translations: Update Arabic, Brazillian Portuguese, Chinese Traditional, French, Greek, Italian, Japanese, Korean, Polish, Russian, Spanish, Ukrainian.
+
+# v2.224.0-dev.15
+Features
+- YouTube: Bump support version 19.16.XX
