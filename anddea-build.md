@@ -58,7 +58,7 @@ Bug Fixes
 - YouTube: Possible fix for Shorts looping
 
 Features
-YouTube: Bump support version 19.14.XX
+- YouTube: Bump support version 19.14.XX
 
 # 2.224.0-dev.14
 Features
