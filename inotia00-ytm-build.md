@@ -1,15 +1,47 @@
-v2.220.1
+# v4.7.1
 YouTube Music
-feat(YouTube Music): change patch name Enable new player background to Enable old player background
-feat(YouTube Music): change patch name Hide emoji picker to Hide emoji picker and time stamp
-feat(YouTube Music): change the description of the Enable color match player, Enable zen mode patches and exclude them by default
-feat(YouTube Music): remove Enable sleep timer patch (supported by default in latest YouTube Music)
-feat(YouTube Music/Hide general ads): remove Hide interstitial ads settings
-feat(YouTube Music/Hide player flyout panel): add Hide subscribe / unsubscribe menu, Hide sleep timer menu settings
-fix(YouTube Music): app is forced close when changing Enable old player background setting or the Enable old player layout setting (refresh automatically with a setting that does not cause forced to close)
-fix(YouTube Music/Enable force minimized player): fix typo
-fix(YouTube Music/Enable old style miniplayer): apply fingerprints compatible with the wider version
-fix(YouTube Music/Hide taste builder): apply fingerprints compatible with the wider version
-fix(YouTube Music/Replace dismiss queue): use built-in icons
-feat(YouTube Music/Translations): update translation
-Brazilian, Chinese Simplified, French, Greek, Japanese, Korean, Polish, Russian, Turkish, Ukrainian, Vietnamese.
+- feat(YouTube Music): add support versions 6.34.51 ~ 6.50.51
+- feat(YouTube Music): add Disable dislike redirection patch
+- feat(YouTube Music): change patch name Enable old style library shelf to Restore old style library shelf
+- feat(YouTube Music): change patch name MicroG support to GmsCore support
+- feat(YouTube Music): remove support versions 6.21.52 ~ 6.28.53
+- feat(YouTube Music): remove Enable old style miniplayer patch
+- feat(YouTube Music): remove Enable playback speed patch
+- feat(YouTube Music): Background play, Exclusive audio playback patches have been integrated into Enable minimized playback patch
+- feat(YouTube Music): Enable black navigation bar, Hide navigation bar component patches have been integrated into Navigation bar components patch
+- feat(YouTube Music): Enable color match player, Enable force minimized player, Enable old player background, Enable old player layout, Remember repeat state, Hide fullscreen share button, Remember shuffle state, Enable zen mode patches have been integrated into Player components patch
+- feat(YouTube Music): Enable compact dialog, Hide flyout panel, Replace dismiss queue, Replace report patches have been integrated into Flyout menu components patch
+- feat(YouTube Music): Enable custom filter, Hide button shelf, Hide carousel shelf, Hide cast button, Hide category bar, Hide channel guidelines, Hide emoji picker and time stamp, Hide new playlist button, Hide history button, Hide playlist card, Hide taste builder, Hide tooltip content, Hide voice search button patches have been integrated into Layout components patch
+- feat(YouTube Music): Hide account menu, Hide handle, Hide terms container patches have been integrated into Hide account components patch
+- feat(YouTube Music): Hide general ads, Hide get premium patches have been integrated into Hide ads patch
+- feat(YouTube Music/Enable debug logging): add Enable debug buffer logging settings
+- feat(YouTube Music/Enable debug logging): included by default
+- feat(YouTube Music/Flyout menu components): add Enable trim silence settings (YT Music v6.43.52+)
+- feat(YouTube Music/Flyout menu components): add Hide 3-column component settings (YT Music v6.36.51+)
+- feat(YouTube Music/Flyout menu components): add Replace report settings (alternative settings of Enable playback speed settings)
+- feat(YouTube Music/Hide ads): add Hide fullscreen ads settings
+- feat(YouTube Music/Hide ads): add Hide paid promotion label settings
+- feat(YouTube Music/Hide layout components): add support for custom filtering of byte buffers to Enable custom filter
+- feat(YouTube Music/Hide layout components): add Hide notification button settings (YT Music v6.42.52+)
+- feat(YouTube Music/Hide layout components): add Hide sound search button settings (YT Music v6.48.51+)
+- feat(YouTube Music/Hide layout components): add Hide sample shelf, Hide tap to update button settings
+- feat(YouTube Music/Litho filter): add support for identifier and byte buffer
+- feat(YouTube Music/Player components): add Enable next previous button, Enable swipe to dismiss miniplayer settings (alternative setting of Enable old style miniplayer patch)
+- feat(YouTube Music/Player components): add Enable zen mode in podcasts settings
+- feat(YouTube Music/Player components): add Restore old comments popup panels settings (YT Music v6.42.52+)
+- feat(YouTube Music/Settings): move SponsorBlock settings and Return YouTube Dislike settings to RVX Settings
+- fix(YouTube Music/Client spoof): spoof all user agents
+- fix(YouTube Music/Custom playback speed): default playback speed preset does not match with stock value
+- fix(YouTube Music/Custom playback speed): do not override when custom playback speed preset is the default
+- fix(YouTube Music/Enable old player background): app crashes when the app is first installed after including the patch in a specific version
+- fix(YouTube Music/GmsCore support): clicking the Manage accounts button causes app crash
+- fix(YouTube Music/GmsCore support): prompt to disable battery optimizations, if not done already
+- fix(YouTube Music/Return YouTube Dislike): Do not show error toast if API success response contains new lines
+- fix(YouTube Music/Settings): issue in vanilla YouTube Music v6.44.52 causes exception
+- fix(YouTube Music/Settings): Import / Export settings crashes when certain patches are excluded
+- fix(YouTube Music/SponsorBlock): even if disables SponsorBlock, fetched segments still remain in the seek bar
+- fix(YouTube Music/SponsorBlock): unable to export segment behavior
+- fix(YouTube Music/Spoof app version): spoofing the app version with 6.11.52 also enables old style library shelves
+- refactor(YouTube Music/Settings): reorganize settings menu
+- refactor(YouTube Music/Video information): include playback speed and video quality
+- feat(YouTube Music/Translations): update translation
