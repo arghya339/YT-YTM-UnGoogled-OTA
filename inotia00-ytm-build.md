@@ -45,3 +45,7 @@ YouTube Music
 - refactor(YouTube Music/Settings): reorganize settings menu
 - refactor(YouTube Music/Video information): include playback speed and video quality
 - feat(YouTube Music/Translations): update translation
+
+# v4.8.0-dev.1
+YouTube Music
+- feat(YouTube Music): add support versions 6.51.52
