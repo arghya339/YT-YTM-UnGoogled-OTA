@@ -1,4 +1,4 @@
-# v4.7.1
+# 4.7.1
 YouTube Music
 - feat(YouTube Music): add support versions 6.34.51 ~ 6.50.51
 - feat(YouTube Music): add Disable dislike redirection patch
@@ -49,3 +49,11 @@ YouTube Music
 # v4.8.0-dev.1
 YouTube Music
 - feat(YouTube Music): add support versions 6.51.52
+
+# v4.8.0-dev.4
+YouTube Music
+- fix(YouTube Music/Hide ads): Hide fullscreen ads setting also closes non-ad dialogs
+
+# 4.8.0-dev.6
+- feat(YouTube Music): clarify in-app strings
+- feat(YouTube Music/Player components): add Hide audio video switch toggle setting
