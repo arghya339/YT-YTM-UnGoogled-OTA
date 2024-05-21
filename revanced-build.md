@@ -1,22 +1,14 @@
-# v4.8.0-dev.1
+# v4.8.0
 Bug Fixes
-- YouTube - Hide video action buttons: Remove obsolete `hide Shop button`
+- YouTube - Spoof client: Spoof client to fix playback
+- YouTube - Hide video action buttons: Remove obsolete hide Shop button
+- YouTube - Player flyout menu: Remove obsolete Hide report menu
+- YouTube - Restore old video quality menu: Show advanced quality menu in Shorts quality flyout
+- YouTube - SponsorBlock: Show correct segment times if video is over 24 hours in length
 
-Features
-- YouTube - Hide Shorts components: Hide like / dislike button in video ads
-
-# 4.8.0-dev.4
 Features
 - YouTube - Comments: Add option to hide timestamp and emoji buttons
-
-# 4.8.0-dev.5
-Bug Fixes
-- YouTube - Hide Shorts components: Rename option title to make it consistent
-
-# 4.8.0-dev.6
-Features
 - YouTube - Hide ads: Add option to hide the 'Visit store' button on channel pages
-
-# v4.8.0-dev.8
-Bug Fixes
-- YouTube - Hide ads: Fix string typo
+- YouTube - Hide Shorts components: Hide 'Buy super thanks' button
+- YouTube - Hide Shorts components: Hide like / dislike button in video ads
+- YouTube - Navigation buttons: Add option to hide navigation button labels
