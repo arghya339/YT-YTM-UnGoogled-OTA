@@ -1,8 +1,7 @@
-# v2.225.0-dev.22
+# v2.225.0-dev.24
+Bug Fixes
+- YouTube - Disable splash animation: Did not work on YouTube v19.17.41+
+- YouTube - SponsorBlock: Submit a new segment button didn't work
+
 Features
-- YouTube - Fullscreen components: Hide related videos in quick actions setting has been merged into the Hide related video overlay setting
-- YouTube - Overlay buttons: Add Whitelist overlay button
-- YouTube - Toolbar components: Remove Hide trending searches setting
-- YouTube: Add Spoof client patch
-- YouTube: Add support versions 19.20.34
-- YouTube: Remove Spoof test client patch
+- YouTube - Player components: Add setting toggle for Hide suggested video end screen
