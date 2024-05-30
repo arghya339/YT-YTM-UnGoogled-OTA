@@ -1,29 +1,18 @@
-# v4.8.3
+# v4.8.5
 YouTube
-- feat(YouTube): add some missing patches
-- feat(YouTube): add support versions 19.20.34
-- feat(YouTube): add Spoof client patch
-- feat(YouTube): clarify in-app strings
-- feat(YouTube): remove Spoof format stream data, Spoof test client patch
-- feat(YouTube): update Overlay buttons, add Hide live chat messages and more Start page options
-- feat(YouTube/Fullscreen components): Hide related videos in quick actions setting has been merged into the Hide related video overlay setting
-- feat(YouTube/Hide feed components): add Hide videos by duration and Hide videos by views count greater than specified value setting
-- feat(YouTube/Hide player flyout menu): change default value of Hide stats for nerds menu
-- feat(YouTube/Overlay button): add Whitelist overlay button
-- feat(YouTube/Overlay button): change default value
-- feat(YouTube/Toolbar components): remove Hide trending searches setting
-- fix(YouTube/Description components): crash occurs when the title of the engagement panel is null
-- fix(YouTube/Hide action buttons): some action buttons are not hidden properly
-- fix(YouTube/Hide feed components): Hide carousel shelf setting sometimes hides the library shelf
-- fix(YouTube/Hide feed components): Hide mix playlists setting hides components in channel profile
-- fix(YouTube/Hide layout components): Hide YouTube settings menu setting does not hide some settings
-- fix(YouTube/Hide suggested video end screen): change the summary of settings to be clearer
-- fix(YouTube/Return shorts channel name): add fallback for Fetch from rss feed
-- fix(YouTube/Return YouTube Dislike): dislike count sometimes not shown in Shorts
-- fix(YouTube/Return YouTube Dislike): dislike counts showing in views
-- fix(YouTube/Return YouTube Dislike): subscribe icon is hidden
-- fix(YouTube/Return YouTube Dislike): wrong video id is used in shorts
-- fix(YouTube/SponsorBlock): pressing Now while manually editing a segment results in an error
-- fix(YouTube/SponsorBlock): pressing the fine adjustment buttons skips to the end of the video while creating a new SponsorBlock segment
-- fix(YouTube/Video playback): default video quality applies even when video is playing
+- feat(YouTube): clarify patch descriptions
+- feat(YouTube/Player components): add setting toggle for Hide suggested video end screen
+- fix(YouTube/Disable splash animation): does not work on YouTube v19.17.41+
+- fix(YouTube/Return YouTube Dislike): clarify in-app strings
+- fix(YouTube/Settings): some default values are not set correctly
+- fix(YouTube/SponsorBlock): submit a new segment button doesn't work
+- fix(YouTube/Spoof client): clarify in-app strings
+- feat(YouTube/Translations): update translation
+
+# v4.8.6-dev.1
+YouTube
+- feat(YouTube): clarify in-app strings and patch names
+- feat(YouTube/Spoof client): selectively spoof client for general video / livestreams / Shorts / fallback (unplayable video)
+- fix(YouTube/Settings): CairoSettings is applied due to A/B testing
+- fix(YouTube/Spoof client): player gestures not working when spoofing with Android VR client
 - feat(YouTube/Translations): update translation
