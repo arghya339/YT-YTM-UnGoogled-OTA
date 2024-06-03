@@ -1,7 +1,9 @@
-# v2.225.0-dev.24
+# v2.226.0-dev.1
 Bug Fixes
-- YouTube - Disable splash animation: Did not work on YouTube v19.17.41+
-- YouTube - SponsorBlock: Submit a new segment button didn't work
+- YouTube - Settings: CairoSettings is applied due to A/B testing
+- YouTube - Spoof client: Player gestures not working when spoofing with Android VR client
 
 Features
-- YouTube - Player components: Add setting toggle for Hide suggested video end screen
+- YouTube - Spoof client: Add Show in Stats for nerds setting
+- YouTube - Spoof client: Selectively spoof client for general video / livestreams / Shorts / fallback (unplayable video)
+- YouTube: Remove Spoof format stream data
