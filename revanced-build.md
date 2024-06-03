@@ -1,3 +1,4 @@
-# v4.8.2
+# v4.8.3
 Bug Fixes
-- YouTube - Client spoof: Spoof iOS client model to fix various side effects
+- YouTube - Spoof client: Clarify that only enter/exit fullscreen gesture does not work with Android VR spoof
+- YouTube - Spoof client: Improve Android spoofing
