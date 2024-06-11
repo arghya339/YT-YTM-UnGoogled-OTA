@@ -1,18 +1,35 @@
-# v4.8.5
+# v4.9.1-dev.1
 YouTube
-- feat(YouTube): clarify patch descriptions
-- feat(YouTube/Player components): add setting toggle for Hide suggested video end screen
-- fix(YouTube/Disable splash animation): does not work on YouTube v19.17.41+
-- fix(YouTube/Return YouTube Dislike): clarify in-app strings
-- fix(YouTube/Settings): some default values are not set correctly
-- fix(YouTube/SponsorBlock): submit a new segment button doesn't work
-- fix(YouTube/Spoof client): clarify in-app strings
-- feat(YouTube/Translations): update translation
+- feat(YouTube): add support version `19.20.35`
 
-# v4.8.6-dev.1
-YouTube
-- feat(YouTube): clarify in-app strings and patch names
-- feat(YouTube/Spoof client): selectively spoof client for general video / livestreams / Shorts / fallback (unplayable video)
-- fix(YouTube/Settings): CairoSettings is applied due to A/B testing
-- fix(YouTube/Spoof client): player gestures not working when spoofing with Android VR client
-- feat(YouTube/Translations): update translation
+- feat(YouTube): proper nouns and clarity of in-app strings
+
+- feat(YouTube): merge patch from RVX/anddea:
+- feat(YouTube): Add `Custom Shorts action buttons` patch (Replaces `Shorts outline icon` patch)
+- feat(YouTube): Add `Visual preferences icons` patch
+- feat(Translations): Remove patch options to remove languages and provide own translation / strings.xml
+- feat(YouTube/Settings): Add search bar in settings
+- feat(YouTube/Shorts components): Add `Hide disabled comments button` and `Hide live chat header settings`
+- refactor(YouTube/Settings): Fix typos in strings
+
+- feat(YouTube): add `Enable OPUS codec` patch
+
+- feat(YouTube/Hide ads): add `Close fullscreen ads` settings
+
+- feat(YouTube/Hide feed components): separate the `Hide low views video` settings from `Hide recommended videos` settings
+
+- feat(YouTube/Hide player flyout menu) add `Hide quality menu header`
+
+- feat(YouTube/Shorts components): add `Hide Super Thanks button` settings
+
+- fix(YouTube/Hide feed components): `Hide Visit store button` setting does not work
+
+- fix(YouTube/Return YouTube Dislike): no longer hides glow animation
+
+- fix(YouTube/Spoof client): add missing side effects
+
+- fix(YouTube/Spoof client): first video is always spoofed as a client of Shorts, Clips
+
+- fix(YouTube/Spoof client): restore playback speed menu when spoofing to an iOS, Android TV, Android Testsuite client
+
+- feat(YouTube/Translations): Remove update translation
