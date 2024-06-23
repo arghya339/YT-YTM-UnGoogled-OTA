@@ -1,9 +1,9 @@
-# v4.9.0
+# v4.10.0
 Bug Fixes
-- YouTube - Spoof client: Allow swipe gestures to enter/exit fullscreen when spoofing with Android VR client
-- YouTube - Spoof client: Restore playback speed menu when spoofing to an iOS client
-
+- YouTube - Client spoof: Correctly play more livestreams using Android VR
+- YouTube - Hide description components: Replace `Hide game section` and `Hide music section` with `Hide attributes section`
+- YouTube: Rename `Minimized playback` to `Remove background playback restrictions`
 Features
-- YouTube - Hide layout components: Disable like / subscribe button glow animation
-- YouTube - Playback speed: Add option to show speed dialog button in video player
-- YouTube: Support version 19.16.XX
+- YouTube - Comments: Add Hide 'Create a Short' button option
+- YouTube - Comments: Add `Hide Thanks button` and Hide 'Comments by members' header options
+- YouTube - Miniplayer: Rename `Tablet mini player` and allow selecting the style of the in-app miniplayer
