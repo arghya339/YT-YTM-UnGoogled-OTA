@@ -1,4 +1,5 @@
-# v4.9.2-dev.1
+# v4.9.2-dev.2
 YouTube Music
-- feat(YouTube Music): add support version 7.05.5X
-- feat(YouTube Music/Translations for YouTube Music): update translation
+- feat(YouTube Music): add support versions 7.06.53
+- feat(YouTube Music): add Enable Cairo splash animation patch (YouTube Music 7.06.53+)
+- feat(YouTube Music/Translations): update translation
