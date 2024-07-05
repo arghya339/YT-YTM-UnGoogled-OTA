@@ -1,5 +1,6 @@
-# v4.9.2-dev.2
+# v4.10.1
 YouTube Music
-- feat(YouTube Music): add support versions 7.08.52
-- feat(YouTube Music): add Enable Cairo splash animation patch (YouTube Music 7.06.53+)
-- feat(YouTube Music/Translations): update translation
+- feat(YouTube Music): add support versions 7.08.53
+- feat(YouTube Music): integrate `Hide double tap overlay filter` patch into the `Player components` patch
+- fix(YouTube Music/Hide ads): patch closes fullscreen ads too quickly, so fullscreen ads are shown repeatedly
+- feat(YouTube Music/Translations for YouTube Music): update translation
