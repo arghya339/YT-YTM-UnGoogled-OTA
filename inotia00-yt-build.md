@@ -1,13 +1,26 @@
-# v4.10.1-dev.1
+# v4.10.1
 YouTube
+- feat(YouTube): add support version `19.25.39`
+- feat(YouTube): integrate `Change Shorts repeat state` patch into the `Shorts components` patch
 - feat(YouTube): integrate `Hide animated button background`, `Hide double tap to like animations` patch into the `Shorts components` patch
 - feat(YouTube): integrate `Hide double tap overlay filter` patch into the `Player components` patch
+- feat(YouTube/Alternative thumbnails): add alternative domain
+- feat(YouTube/Client spoof): downgrade hardcoded client version
+- feat(YouTube/Custom Shorts action buttons): add `YouTube` (unchanged) to selectable patch options
+- feat(YouTube/Custom Shorts action buttons): add outlined version of actual youtube shorts action buttons
 - feat(YouTube/Hide feed components): update known issue
+- feat(YouTube/Miniplayer): add `Enable double-tap action` setting (YouTube 19.25.39+)
+- feat(YouTube/Settings): change cursor color dynamically in searchbar
 - feat(YouTube/Settings): restyle search view
 - feat(YouTube/Settings): show AlertDialog when changing some settings value (matches ReVanced)
 - feat(YouTube/Shorts components): add `Double-tap animation` settings
+- feat(YouTube/Shorts components): add `Enable timestamps`, `Timestamp long press action`, `Meta panel bottom margin` settings (YouTube 19.25.39+)
 - feat(YouTube/Toolbar components): add `Hide image search button` settings
+- fix(YouTube/Hide ads): new ads are not blocked
+- fix(YouTube/Hide ads): patch closes fullscreen ads too quickly, so fullscreen ads are shown repeatedly
 - fix(YouTube/Hide feed components): detect if a keyword filter hides all videos
+- fix(YouTube/Hide feed components): video filters do not work properly on accounts with A/B testing applied
+- fix(YouTube/Settings): toolbar added twice to RVX settings
 - fix(YouTube/Shorts components): `Hide sound button` doesn't work (A/B tests)
 - fix(YouTube/Theme): reverts background color of `More comments` icon in live chats
-- feat(YouTube/Translations): update translation
+- feat(YouTube/Translations for YouTube): update translation
