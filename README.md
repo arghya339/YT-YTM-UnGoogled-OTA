@@ -14,7 +14,7 @@ _Work in Progress..._
 
 <details><summary>
 
-#### YouTube UnGoogled - Android Versions
+#### YouTube ReVancedX - Android Versions
 </summary>
 
 ```
@@ -55,7 +55,7 @@ Android 15
 
 <details><summary>
   
-#### YT Music UnGoogled - Android Versions
+#### YT Music ReVancedX - Android Versions
 </summary>
 
 ```
@@ -102,7 +102,7 @@ Android 15
 
 <details><summary>
 
-#### YouTube UnGoogled
+#### YouTube ReVancedX
 </summary>
 
 | Patch | Description | Related Screenshots |
@@ -223,7 +223,7 @@ Android 15
 
 <details><summary>
 
-#### YouTube Music UnGoogled
+#### YouTube Music ReVancedX
 </summary>
 
 | Patch | Description | Related Screenshots |
