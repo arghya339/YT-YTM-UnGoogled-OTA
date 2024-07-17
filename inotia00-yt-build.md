@@ -1,15 +1,13 @@
-# v4.10.2-dev.1
+# v4.10.2
 YouTube
-- feat(YouTube): add support version `19.26.42`
-- feat(YouTube/Alternative thumbnails): add support for more domains (Alternative domain)
-- feat(YouTube/Overlay buttons): add `Mute Video` button
-- feat(YouTube/Shorts components): add `Hide paused header` setting
-- fix(YouTube/Disable forced auto captions): subtitles don't work after playing Shorts
-- fix(YouTube/Miniplayer): change invalid string
-- fix(YouTube/Overlay buttons): add missing resources
-- fix(YouTube/Overlay buttons): remove used resources
-- fix(YouTube/SponsorBlock): skip segments when casting
-- fix(YouTube/Spoof client): delay when the video starts
-- fix(YouTube/Video playback): default video quality does not apply
-- refactor(YouTube/Overlay buttons): rename class, method, and resource files to be more appropriate
-- feat(YouTube/Translations): update translation
+- feat(GmsCore support): add patch options `GmsCoreVendorGroupId`: com.mgoogle, `CheckGmsCore`: https://github.com/inotia00/VancedMicroG/releases/Latest
+- feat(YouTube): separate the `Bypass image region restrictions` patch from the `Alternative thumbnails` patch
+- feat(YouTube/Player components): `Hide player popup panels` setting now hides the products panel
+- feat(YouTube/Swipe controls): add `Enable save and restore brightness` setting
+- fix(YouTube): restart dialog that appears when the user first installs the app restarts the app too quickly, so the new layout is not fetched (add a restart delay to resolve issues)
+- fix(YouTube/Alternative thumbnails): handle more thumbnails
+- fix(YouTube/Hide feed components): `Hide carousel shelf` setting sometimes hides the Watch history in the You tab
+- fix(YouTube/Hide feed components): do not hide flyout menu
+- fix(YouTube/Overlay buttons): change default value
+- revert(YouTube/Hide feed components): `Hide expandable chip under videos` setting does not work (as support version has been rolled back to YouTube `19.16.39`)
+- feat(YouTube/Translations for YouTube): update translation
