@@ -1,4 +1,4 @@
-# v4.12.1-dev.1
+# v4.12.3
 YouTube
-- feat(YouTube): add Watch history patch
-- feat(YouTube): add Hook download actions patch ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.12.1-dev.1)
+- feat(YouTube): add `Change share sheet` patch
+- fix(YouTube/Hook download actions): video download button was not responding ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.12.3)
