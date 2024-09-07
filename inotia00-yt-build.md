@@ -1,4 +1,3 @@
-# v4.12.3
+# v4.13.1
 YouTube
-- feat(YouTube): add `Change share sheet` patch
-- fix(YouTube/Hook download actions): video download button was not responding ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.12.3)
+- fix(YouTube - Spoof Client): Fix playback by replace `Spoof streaming data` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.13.1)
