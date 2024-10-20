@@ -98,7 +98,7 @@ Android 15
 ## ReVancedX - Download
 </summary>
 
-> You may need to open Readme.md in browser to Find the Downloadable ReVancedX Releases.
+> You may need to open README.md in browser to Find the Downloadable ReVancedX Releases.
 
 ReVancedX|Supported|Link
 :----|:----|:----
