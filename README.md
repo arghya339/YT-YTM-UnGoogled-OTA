@@ -95,7 +95,7 @@ Android 15
 
 <details><summary>
 
-### YouTube ReVancedX - Download
+## YouTube ReVancedX - Download
 </summary>
 
 ReVancedX|Supported|Link
