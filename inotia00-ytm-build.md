@@ -1,4 +1,3 @@
-# v4.14.1-dev.1
+# v4.16.1-
 YouTube Music
-- feat(YouTube Music): add support versions `7.18.52`
-- feat(YouTube Music): add `Visual preferences icons for YouTube Music` patch ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.14.1-dev.1)
+- feat(YouTube Music): drop support versions `7.16.53` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.16.1)
