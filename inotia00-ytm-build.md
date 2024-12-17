@@ -1,3 +1,3 @@
-# v4.16.1-
+# v5.1.1-dev.2
 YouTube Music
-- feat(YouTube Music): drop support versions `7.16.53` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v4.16.1)
+- feat(YouTube Music): support versions `7.25.52` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v5.1.1-dev.2)
