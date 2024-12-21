@@ -1,3 +1,3 @@
-# v5.1.1-dev.2
+# v5.1.1
 YouTube
-- feat(YouTube): Support version `19.38.41` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v5.1.1-dev.2)
+- feat(YouTube): Support version `19.44.39` ...[more](https://github.com/inotia00/revanced-patches/releases/tag/v5.1.1)
